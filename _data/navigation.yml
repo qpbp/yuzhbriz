@@ -1,10 +1,10 @@
 # specify main menu items here
 
-- text: Home
+- text: Главная
   url: /
-- text: About
+- text: Контакты
   url: /about
-- text: Contact
+- text: Связаться
   url: /contact
-- text: Blog
+- text: Блог
   url: /blog
